@@ -20,19 +20,19 @@ This project focused on practicing component placement, signal routing, power di
 ## Visuals
 
 ### Schematic
-![Schematic](Captures/Schematic_Editor.png)
+![Schematic](Serial-Basic-CH340C-and-USBC/Captures/Schematic_Editor.png)
 
 ### PCB Layout
-![PCB Layout - Top Layer](Captures/PCB_Editor_F_Cu.png)
-![PCB Layout - Bottom Layer](Captures/PCB_Editor_B_Cu.png)
+![PCB Layout - Top Layer](Serial-Basic-CH340C-and-USBC/Captures/PCB_Editor_F_Cu.png)
+![PCB Layout - Bottom Layer](Serial-Basic-CH340C-and-USBC/Captures/PCB_Editor_B_Cu.png)
 
 ### 3D View
-![3D View 1](Captures/3D_Viewer_1.png)
-![3D View 2](Captures/3D_Viewer_2.png)
-![3D View 3](Captures/3D_Viewer_3.png)
+![3D View 1](Serial-Basic-CH340C-and-USBC/Captures/3D_Viewer_1.png)
+![3D View 2](Serial-Basic-CH340C-and-USBC/Captures/3D_Viewer_2.png)
+![3D View 3](Serial-Basic-CH340C-and-USBC/Captures/3D_Viewer_3.png)
 
 ### Bill of Materials (BOM)
-![BOM](Captures/BOM.png)
+![BOM](Serial-Basic-CH340C-and-USBC/Captures/BOM.png)
 
 ## Project Files
 
