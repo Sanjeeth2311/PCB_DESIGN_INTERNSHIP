@@ -20,10 +20,10 @@ All designs in this repository are my personal practice work from the internship
 ## Repository Structure
 
 Each project folder typically contains:
-- Schematic files (`.sch` or equivalent)
-- PCB layout files (`.kicad_pcb` or equivalent)
-- Gerber files (for manufacturing)
-- BOM (Bill of Materials)
+- Schematic files
+- PCB layout files
+- Gerber files
+- BOM
 - 3D View
 - Individual READMEs with project-specific details
 
