@@ -1,6 +1,5 @@
 # PCB Design Internship Projects
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Status: Learning Projects](https://img.shields.io/badge/Status-Learning%20Projects-blue)
 
 ## About This Repository
@@ -19,16 +18,6 @@ The first 4 months were dedicated to learning and practicing these fundamentals 
 All designs in this repository are my personal practice work from the internship. They showcase my progression in PCB design skills using tools like KiCad (or specify your tool if different, e.g., Altium Designer).
 
 ## Repository Structure
-
-```
-/
-├── Project1-2Layer-Basic/          # Example: Basic 2-layer design exercises
-├── Project2-4Layer-Advanced/       # Example: 4-layer layout practice
-├── Exercises/                      # Individual practice files and layouts
-├── Resources/                      # Notes, references, design rules, etc.
-├── README.md                       # This file
-└── .gitignore                      # Ignores temporary files
-```
 
 Each project folder typically contains:
 - Schematic files (`.sch` or equivalent)
@@ -51,9 +40,5 @@ Through this internship, I gained practical experience in:
 - Applying layout best practices (signal integrity, power distribution, grounding)
 - Following industry manufacturing standards (e.g., trace width, clearance, via sizes)
 - Debugging designs with DRC/ERC checks
-
-## License
-
-This repository is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 Feel free to explore the designs, and feedback is welcome!
