@@ -30,6 +30,7 @@ This project focused on practicing component placement, signal routing, power di
 The repository contains the full KiCad project:
 
 - `/Gerbers/` 
+- **Gerbers**: [Gerbers](Captures)
 
 ## Notes
 
