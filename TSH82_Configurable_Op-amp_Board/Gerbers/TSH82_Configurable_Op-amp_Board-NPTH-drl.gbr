@@ -1,0 +1,27 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.5*%
+%TF.CreationDate,2025-12-25T12:25:19+05:30*%
+%TF.ProjectId,TSH82_Configurable_Op-amp_Board,54534838-325f-4436-9f6e-666967757261,v1.1*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.5) date 2025-12-25 12:25:19*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentDrill*%
+%ADD10C,2.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H1*%
+X126000000Y-82000000D03*
+%TO.C,H4*%
+X126000000Y-106000000D03*
+%TO.C,H2*%
+X160000000Y-82000000D03*
+%TO.C,H3*%
+X160000000Y-106000000D03*
+M02*
