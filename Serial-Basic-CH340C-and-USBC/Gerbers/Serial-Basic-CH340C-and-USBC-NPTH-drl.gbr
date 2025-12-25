@@ -1,0 +1,22 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.5*%
+%TF.CreationDate,2025-12-13T22:10:06+05:30*%
+%TF.ProjectId,Serial-Basic-CH340C-and-USBC,53657269-616c-42d4-9261-7369632d4348,V1.2*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.5) date 2025-12-13 22:10:06*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentDrill*%
+%ADD10C,0.950000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,U3*%
+X154030000Y-109405000D03*
+X154070000Y-115905000D03*
+M02*
