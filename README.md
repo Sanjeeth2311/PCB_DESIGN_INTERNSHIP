@@ -24,7 +24,7 @@ Each project folder typically contains:
 - PCB layout files (`.kicad_pcb` or equivalent)
 - Gerber files (for manufacturing)
 - BOM (Bill of Materials)
-- 3D renders (if available)
+- 3D View
 - Individual READMEs with project-specific details
 
 ## Tools Used
