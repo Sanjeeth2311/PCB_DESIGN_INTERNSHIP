@@ -17,29 +17,20 @@ This board uses the CH340C USB-to-UART chip to convert USB signals (via USB-C co
 
 This project focused on practicing component placement, signal routing, power distribution, and manufacturing standards.
 
-## Visuals
+## Images
 
-### Schematic
-![Schematic](Captures/Schematic_Editor.png)
-
-### PCB Layout
-![PCB Layout - Top Layer](Captures/PCB_Editor_F_Cu.png)
-![PCB Layout - Bottom Layer](Captures/PCB_Editor_B_Cu.png)
-
-### 3D View
-![3D View 1](Captures/3D_Viewer_1.png)
-![3D View 2](Captures/3D_Viewer_2.png)
-![3D View 3](Captures/3D_Viewer_3.png)
-
-### Bill of Materials (BOM)
-![BOM](Captures/BOM.png)
+- **Schematic Editor**: [Schematic_Editor.png](Captures/Schematic_Editor.png)
+- **PCB Editor**: [PCB_Editor.png](Captures/PCB_Editor.png)
+- **3D View 1**: [3D_Viewer_1.png](Captures/3D_Viewer_1.png)
+- **3D View 2**: [3D_Viewer_2.png](Captures/3D_Viewer_2.png)
+- **BOM**: [BOM.png](Captures/BOM.png)
 
 ## Project Files
 
 The repository contains the full KiCad project:
 
 - `/Gerbers/` 
-s
+
 ## Notes
 
 - Design follows CH340C datasheet recommendations and USB-C configuration guidelines.
